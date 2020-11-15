@@ -1,0 +1,12 @@
+*.vec
+*.bin
+*.csv
+*.xlsx
+*.sav
+*.txt
+*.vocab
+*.gz
+*.feat
+
+!requirements.txt
+!stopwords_en.txt
